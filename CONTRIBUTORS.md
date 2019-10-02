@@ -43,6 +43,11 @@
 - Bio: Student at LSE
 - GitHub: [KelseyDCooper](https://github.com/kelseydcooper)
 
+#### Name: [Indraneel Sarkar](https://github.com/sark01)
+- Place: Hyderabad, India
+- Bio: Applications Engineer at Oracle
+- GitHub: [Indraneel Sarkar](https://github.com/sark01)
+
 ### Name: [Joseph Reed](https://github.com/josephreed2600)
 - Place: California, USA
 - Bio: CS major and FRC alumnus
